@@ -24,7 +24,7 @@ and backend development best practices.
 ## How to reach me
 -  [LinkedIn](https://www.linkedin.com/in/abdirahman-dahir-689a0a313/)
 - dahirabdirahman595@gmail.com
-- 
+
 ## What I'm looking for
 Opportunities in backend or full-stack development where I can build 
 reliable, scalable software and keep growing as an engineer.
